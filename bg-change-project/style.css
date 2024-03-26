@@ -1,0 +1,46 @@
+.color-class{
+    height: 50px;
+    width: 50px;
+    border: black 2px solid;
+    padding: 20px;
+    margin: 20px;
+   
+    
+}
+
+
+.color-box {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+
+}
+
+
+
+button {
+    display: flex;
+    justify-content: center;
+    margin-left: 50%;
+    
+}
+
+
+#one{
+    background-color: brown;
+}
+#two{
+    background-color: yellow;
+}
+#three{
+    background-color: orange;
+}
+#four{
+    background-color: seagreen;
+}
